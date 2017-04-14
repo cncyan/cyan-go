@@ -1,0 +1,24 @@
+/*article部分*/
+#ca_main,#cp_main{width: 100%;clear: both;margin-top: 60px;}
+.ca_main_left,.cp_main_left{float: left;width: 70%;padding-left: 5%; }
+.time{float: left;height: 60px;text-align: center;margin-right: 5px;}
+.time p{font-size: 20px;font-weight: 600;}
+.time span{padding-top: 5px;font-size:12px;border-top: 1px solid #ee0000; }
+.ca_main_left ul li,.cp_main_left ul li{list-style: none; overflow:hidden; margin-top:20px; margin-bottom:10px;}
+.ca_main_left ul li article,.cp_main_left ul li article{float:left;margin-top: 10px;width: 70%;}
+.ca_main_left ul li article img{width: 30px;height: 30px;display: inline-block;}
+.cp_main_left ul li article img{width: 80%;height: 120px;}
+.ca_main_left ul li article a h3{display: inline-block;}
+.ca_main_left ul li article a h3,.cp_main_left ul li article a h3{font-size: 25px;color: #363636;font-weight: 400; word-spacing: 4px;letter-spacing: 1px;vertical-align: top;}
+.ca_main_left ul li article p,.cp_main_left ul li article p{color: #333333; text-indent: 1em;margin-top: 10px;font-size: 14px;word-spacing: 4px;letter-spacing: 1px;}
+.ca_main_right,.cp_main_right{float: left; margin-bottom: 20px;}
+.ca_list h4,.ca_new h4,.cp_list h4,.cp_new h4{font-weight: 400;font-size: 18px;color: #666666;margin-bottom: 10px;margin-top: 10px;}
+.ca_list ul,.ca_new ul,.cp_list ul,.cp_new ul{margin-left: 30px;}
+.ca_list ul li,.ca_new ul li,.cp_list ul li,.cp_new ul li{font-size: 14px;margin: 3px 0;}
+.ca_list ul li a,.ca_new ul li a,.cp_list ul li a,.cp_new ul li a{color: #333333;}
+.ca_list ul li a:hover,.ca_new ul li a:hover,.cp_list ul li a:hover,.cp_new ul li a:hover{color: #ee0000;}
+.ca_list ul li:hover,.ca_new ul li:hover,.cp_list ul li:hover,.cp_new ul li:hover{color: #ee0000;}
+
+
+
+#talk_main{width: 80%;margin: auto;}
